@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvtoStroy", "AvtoStroy\AvtoStroy.csproj", "{ABC8C323-EF09-4F62-96B2-1A180BABFFAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC8C323-EF09-4F62-96B2-1A180BABFFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC8C323-EF09-4F62-96B2-1A180BABFFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC8C323-EF09-4F62-96B2-1A180BABFFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC8C323-EF09-4F62-96B2-1A180BABFFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6302638B-40E0-46D4-B88B-4AE58ABD8F5A}
+	EndGlobalSection
+EndGlobal
